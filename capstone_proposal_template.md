@@ -4,15 +4,13 @@ h_my1994
 September 8, 2019
 
 ## 提案
-随着日新月异的科技发展，机器学习已经逐渐在我们的生活中出现并得到广泛的应用。在学习机器学习的过程中，我对于[Dogs vs. Cats][][Dogs vs. Cats]:https://www.kaggle.com/c/dogs-vs-cat 这个项目有比较浓厚的兴趣。我的毕业项目将从这个方向上进行研究实验，并完成作品。
+随着日新月异的科技发展，机器学习已经逐渐在我们的生活中出现并得到广泛的应用。在学习机器学习的过程中，我对于[Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats)这个项目有比较浓厚的兴趣。我的毕业项目将从这个方向上进行研究实验，并完成作品。  
 
 ### 领域背景
-_(approx. 1-2 paragraphs)_
-**Dogs vs. Cats** 这个项目是Kaggle上的一个比赛项目。目的是编写一个算法来分类图像是包含狗还是猫。这对人类来说来说很容易，但计算机分辨起来有点困难。目前的文献表明，机器分类器在这项任务中的准确率可以达到80％以上
-In this section, provide brief details on the background information of the domain from which the project is proposed. Historical information relevant to the project should be included. It should be clear how or why a problem in the domain can or should be solved. Related academic research should be appropriately cited in this section, including why that research is relevant. Additionally, a discussion of your personal motivation for investigating a particular problem in the domain is encouraged but not required.
+**Dogs vs. Cats** 这个项目是Kaggle上的一个比赛项目。目的是编写一个算法来分类图像是包含狗还是猫。这对人类来说来说很容易，但计算机分辨起来有点困难。先前的文献表明，机器分类器在这项任务中的准确率可以达到80％以上。[[1]](http://xenon.stanford.edu/~pgolle/papers/dogcat.pdf)  
+如今在比赛中，许多研究者用着各种不同的模型和参数进行对这个项目的不断探索，以求得到极高的识别率和快速的识别速度的双赢。  
 
-### Problem Statement
-_(approx. 1 paragraph)_
+### 问题陈述
 
 In this section, clearly describe the problem that is to be solved. The problem described should be well defined and should have at least one relevant potential solution. Additionally, describe the problem thoroughly such that it is clear that the problem is quantifiable (the problem can be expressed in mathematical or logical terms) , measurable (the problem can be measured by some metric and clearly observed), and replicable (the problem can be reproduced and occurs more than once).
 
