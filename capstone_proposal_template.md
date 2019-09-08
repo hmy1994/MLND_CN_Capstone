@@ -1,14 +1,14 @@
-# Machine Learning Engineer Nanodegree
-## Capstone Proposal
-Joe Udacity  
-December 31st, 2050
+# 机器学习毕业项目
+## 开题报告
+h_my1994  
+September 8, 2019
 
-## Proposal
-_(approx. 2-3 pages)_
+## 提案
+随着日新月异的科技发展，机器学习已经逐渐在我们的生活中出现并得到广泛的应用。在学习机器学习的过程中，我对于[Dogs vs. Cats][][Dogs vs. Cats]:https://www.kaggle.com/c/dogs-vs-cat 这个项目有比较浓厚的兴趣。我的毕业项目将从这个方向上进行研究实验，并完成作品。
 
-### Domain Background
+### 领域背景
 _(approx. 1-2 paragraphs)_
-
+**Dogs vs. Cats** 这个项目是Kaggle上的一个比赛项目。目的是编写一个算法来分类图像是包含狗还是猫。这对人类来说来说很容易，但计算机分辨起来有点困难。目前的文献表明，机器分类器在这项任务中的准确率可以达到80％以上
 In this section, provide brief details on the background information of the domain from which the project is proposed. Historical information relevant to the project should be included. It should be clear how or why a problem in the domain can or should be solved. Related academic research should be appropriately cited in this section, including why that research is relevant. Additionally, a discussion of your personal motivation for investigating a particular problem in the domain is encouraged but not required.
 
 ### Problem Statement
